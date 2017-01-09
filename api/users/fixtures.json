@@ -1,0 +1,28 @@
+[
+    {
+        "model":"users",
+        "data":
+        {
+          "id":"9c139ad0-bed9-11e6-9d68-b59086f04027",
+          "firstname": "Mel",
+          "lastname": "Florance",
+          "email": "mel.florance@gmail.com",
+          "password": "cbbc0d41737bf52d8c84a2361fb758886c9e00eb429dcb229beed20c8399f959c05558a15621b90159bea65f5bba76f28feb5bf6bf0367a01b1aba981410fba4",
+          "activated": 1,
+          "role": "admin"
+        }
+    },
+  {
+    "model":"users",
+    "data":
+    {
+      "id":"f18dc6c0-bed9-11e6-9d68-b59086f04027",
+      "firstname": "test",
+      "lastname": "test",
+      "email": "test@test.fr",
+      "password": "cbbc0d41737bf52d8c84a2361fb758886c9e00eb429dcb229beed20c8399f959c05558a15621b90159bea65f5bba76f28feb5bf6bf0367a01b1aba981410fba4",
+      "activated": 1,
+      "role": "user"
+    }
+  }
+]

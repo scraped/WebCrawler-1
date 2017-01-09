@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "Meta.js",
+  "sourceRoot": "",
+  "sources": [
+    "Meta.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA,IAAA;;AAAM;EACQ,cAAA,GAAA;;;;;;AAEd,MAAM,CAAC,OAAP,GAAiB"
+}

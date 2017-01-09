@@ -1,0 +1,181 @@
+@import "transitions.styl"
+
+body
+    padding-top 50px
+    font-family: 'Avenir', Helvetica, Arial, sans-serif
+    font-smoothing antialiased
+    background #f3f3f4
+
+.center-block
+    float none
+
+.truncate
+    white-space nowrap
+    overflow hidden
+    text-overflow ellipsis
+    display block
+    max-width 100px
+.empty-group
+    width 100%
+    display block
+    float left
+    clear left
+    height 34px
+
+.pagination 
+    display block
+    padding-left 0
+    margin 0 auto
+    margin-top 20px
+    border-radius 4px
+    
+.btn-grouped .btn-group button
+    border-radius 0
+
+.btn-grouped .btn-group:first-child button
+    border-top-left-radius 3px
+
+.btn-grouped .btn-group:first-child button
+    border-top-right-radius 3px
+
+.btn-grouped .btn-group:last-child button
+    border-bottom-left-radius 3px
+
+.btn-grouped .btn-group:last-child button
+    border-bottom-right-radius 3px
+
+.sub-header
+    padding-bottom 10px
+    border-bottom 1px solid #eee
+
+.delete-user-btn
+    padding-left 0!important
+    margin-bottom 6px
+
+.navbar-inverse
+    background-color #2f4050
+
+.sidebar
+    display none
+
+.navbar
+    height 48px
+    min-height 0
+
+@media (min-width 768px) {
+    .sidebar {
+        position fixed
+        top 48px
+        bottom 0
+        left 0
+        z-index 1000
+        display block
+        padding 20px
+        overflow-x hidden
+        overflow-y auto
+        background-color #2f4050
+        border-right 1px solid #eee
+    }
+}
+
+.nav-sidebar
+    margin-right -21px
+    margin-bottom 20px
+    margin-left -20px
+
+.nav-sidebar > li > a
+    padding-right 20px
+    padding-left 20px
+
+.nav-sidebar > .active > a,
+.nav-sidebar > .active > a:hover,
+.nav-sidebar > .active > a:focus
+    color #fff
+    background-color #273440
+
+.nav > li > a
+    transition all .3s
+
+.nav > li > a:focus
+.nav > li > a:hover
+    text-decoration none
+    background-color #273440
+
+.form-group
+    margin-bottom 15px
+    float left
+    width 100%
+
+.main
+    padding 20px
+
+@media (min-width: 768px) {
+    .main {
+        padding-right 40px
+        padding-left 40px
+    }
+}
+.nav.nav-pills > li > a
+    padding 8px
+
+.nav-pills>li.active>a
+.nav-pills>li.active>a:focus
+.nav-pills>li.active>a:hover
+    color #fff
+    background-color #1ab394
+
+.nav.nav-pills > li > a:focus
+    background-color #1ab394
+
+.nav-pills>li>a
+    border-radius 0
+
+.nav.nav-pills > li > a:hover
+    background-color #f1f1f1
+
+.nav.nav-pills > li > a:focus:hover
+    background-color #1ab394
+
+.green
+    color #1ab394
+
+label
+    line-height 33px
+
+.label
+    transition: background .3s
+
+.main .page-header
+    margin-top 0
+
+.placeholders 
+    margin-bottom 30px
+    text-align center
+
+.placeholders h4 
+    margin-bottom 0
+
+.placeholder 
+    margin-bottom 20px
+
+.placeholder img 
+    display inline-block
+    border-radius 50%
+
+#modal_footer_cancel, #modal_footer_confirm
+    width: auto!important;
+
+.table>tbody>tr.success>td
+.table>tbody>tr.success>th
+.table>tbody>tr>td.success
+.table>tbody>tr>th.success
+.table>tfoot>tr.success>td
+.table>tfoot>tr.success>th
+.table>tfoot>tr>td.success
+.table>tfoot>tr>th.success
+.table>thead>tr.success>td
+.table>thead>tr.success>th
+.table>thead>tr>td.success
+.table>thead>tr>th.success
+    background-color #1ab394
+    color white

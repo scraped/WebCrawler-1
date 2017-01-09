@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "OpenGraph.js",
+  "sourceRoot": "",
+  "sources": [
+    "OpenGraph.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA,IAAA;;AAAM;EACQ,mBAAA,GAAA;;;;;;AAEd,MAAM,CAAC,OAAP,GAAiB"
+}

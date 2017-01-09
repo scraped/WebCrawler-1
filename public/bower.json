@@ -1,0 +1,21 @@
+{
+  "name": "crawler",
+  "description": "A Vue.js project",
+  "main": "",
+  "authors": [
+    "Mel Florance <mel.florance@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jasny-bootstrap": "^3.1.3"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "template": "action",
+  "subject" : "Account registration",
+  "title"   : "Account registration",
+  "header"  : "Hello !<br>Your registration has been processed successfully",
+  "content" : "Please activate your account by clicking the link below",
+  "action"  :
+  {
+    "url": "",
+    "text": "Activate my account"
+  }
+}

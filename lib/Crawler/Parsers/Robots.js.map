@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "Robots.js",
+  "sourceRoot": "",
+  "sources": [
+    "Robots.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA,IAAA;;AAAM;EACQ,gBAAA,GAAA;;;;;;AAEd,MAAM,CAAC,OAAP,GAAiB"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "Api.js",
+  "sourceRoot": "",
+  "sources": [
+    "Api.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA,IAAA;;AAAA,OAAA,GAAU,OAAA,CAAQ,qBAAR;;AAEV,MAAM,CAAC,OAAP,GACC;EAAA,QAAA,EAAU,OAAV"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "Links.js",
+  "sourceRoot": "",
+  "sources": [
+    "Links.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA,IAAA;;AAAM;EACQ,eAAA,GAAA;;;;;;AAEd,MAAM,CAAC,OAAP,GAAiB"
+}

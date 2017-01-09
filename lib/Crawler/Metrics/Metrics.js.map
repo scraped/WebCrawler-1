@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "Metrics.js",
+  "sourceRoot": "",
+  "sources": [
+    "Metrics.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA,IAAA;;AAAM;EACQ,iBAAA,GAAA;;;;;;AAEd,MAAM,CAAC,OAAP,GAAiB"
+}

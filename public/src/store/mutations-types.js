@@ -1,0 +1,10 @@
+export const ADD_DOMAIN         = 'ADD_DOMAIN';
+export const ADD_DOMAINS        = 'ADD_DOMAINS';
+export const ADD_USERS          = 'ADD_USERS';
+export const SET_EDITED_USER    = 'SET_EDITED_USER';
+export const CLEAR_EDITED_USER  = 'CLEAR_EDITED_USER';
+export const SET_USERS_COUNT    = 'SET_USERS_COUNT';
+export const SET_PAGE           = 'SET_PAGE';
+export const SET_NB_PAGES       = 'SET_NB_PAGES';
+export const SAVE_USER          = 'SAVE_USER';
+export const SET_USER_BIRTHDATE = 'SET_USER_BIRTHDATE';

@@ -1,0 +1,13 @@
+<%>header%>
+<div id="app">
+    <div class="main" v-show="loading">
+        <div class="wrapper">
+            <div class="sk-spinner sk-spinner-double-bounce">
+                <div class="sk-double-bounce1"></div>
+                <div class="sk-double-bounce2"></div>
+            </div>
+        </div>
+    </div>
+    <%& yield %>
+</div>
+<%>footer%>
